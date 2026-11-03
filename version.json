@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/Metheenami/newspapers/main/newspapers.apk.b64",
-  "notes": "Sekarang ada layar persiapan di tengah dengan loading bar, semua tampilan disembunyikan sampai halaman koran siap."
+  "notes": "Tampilan sekarang full sampai mentok tepi layar tanpa ruang hitam di atas, dan cakupan diperluas: seluruh Timur Tengah, Amerika Serikat, China, Jepang, Korea, Indonesia, dan Malaysia."
 }
