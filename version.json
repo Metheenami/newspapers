@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/Metheenami/newspapers/main/newspapers.apk.b64",
-  "notes": "Berita sekarang persis Real-time Pulse per negara seperti di situsnya, dan Bahasa Indonesia dimuat penuh sebelum halaman tampil."
+  "notes": "Sekarang ada layar persiapan di tengah dengan loading bar, semua tampilan disembunyikan sampai halaman koran siap."
 }
